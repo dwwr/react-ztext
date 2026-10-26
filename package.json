@@ -28,7 +28,7 @@
     "oxlint": "^1.79.0",
     "typescript": "~6.0.2",
     "vite": "^8.2.2",
-    "storybook": "^10.5.10",
+    "storybook": "^10.6.2",
     "@storybook/react-vite": "^10.5.10",
     "@chromatic-com/storybook": "latest",
     "@storybook/addon-vitest": "^10.5.10",
