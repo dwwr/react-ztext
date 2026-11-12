@@ -844,10 +844,10 @@
     tmcp "^1.19.4"
     valibot "^1.4.0"
 
-"@storybook/addon-vitest@^10.5.10":
-  version "10.5.10"
-  resolved "https://registry.npmjs.org/@storybook/addon-vitest/-/addon-vitest-10.5.10.tgz"
-  integrity sha512-JNQ9DSkLfxC8qqytBCej91zBExIZ7z97B410U2zgfQPki4HkI9Ffz97a15f5yhVZ79ppIrZ/ssI+WcyWn0ykXQ==
+"@storybook/addon-vitest@^10.6.4":
+  version "10.6.4"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-vitest/-/addon-vitest-10.6.4.tgz#1597e2e64d2cadb11a2e12e2fead5f47317fd79a"
+  integrity sha512-ojRolkXhfq/Mvp4GvNESqGlNJG+/xyXVoUHopiIBcSxqKq2cqXgpfisRBOyFN6KS346EAlZK896UrQBjmYmQRA==
   dependencies:
     "@storybook/global" "^5.0.0"
     "@storybook/icons" "^2.0.2"
